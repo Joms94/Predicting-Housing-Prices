@@ -1,4 +1,4 @@
-# Cleaning, exploring and modelling housing data with multiple linear regression
+# Cleaning, exploring and modelling housing data
 As part of the IBM Data Analyst Professional Certificate, I got a primer on machine learning basics and the opportunity to put them to the test. This is one of my first forrays into these dark arts!
 In this project, I identify basic trends in the data and apply appropriate modelling, transformation and validation techniques to produce a roughly 72% accurate predictive model.
 
